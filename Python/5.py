@@ -1,8 +1,4 @@
-def gcd(left, right):
-    while right != 0:
-        (left, right) = (right, left % right)
-    return left
-
+from primefac import gcd
 
 def get_smallest_evenly_dividible():
     curr = 2520
