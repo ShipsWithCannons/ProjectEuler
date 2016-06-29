@@ -16,6 +16,14 @@ While others are interested in the math behind the problems, I'm not.
 I'm interested in learning how to use a language to the full potential.
 Performance will not be the focus, doing things as straight-forward as possible will.
 
+### No comments? No explanation?
+
+It's still Project Euler.
+One of the joys from solving these challenges comes from solving the problem yourself.
+While the code should be easy to follow it's left as an excercise to the reader why
+I did it and why it's producing the correct results.
+Don't you dare to write production code without comments when magic is happening!
+
 ### Multiple languages?
 
 Being able to solve a problem using a tool (read: programming language) is good.
